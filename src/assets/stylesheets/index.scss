@@ -1,4 +1,4 @@
-$red : #C21F39;
+$red: #C21F39;
 
 #buttonTest {
   color: $red;
@@ -6,4 +6,26 @@ $red : #C21F39;
 
 .backgroundMusic {
 
+}
+
+.content {
+  max-width: 800px;
+  text-align: center;
+}
+
+.cell {
+
+}
+
+.left {
+  width: 10%;
+}
+
+.right {
+  width: 80%;
+}
+
+.cellImage {
+  width: 90%;
+  height: auto;
 }
